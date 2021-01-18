@@ -43,6 +43,12 @@ products by quantity and size.
 
 ## Related Products
 ### Built by Christopher Liang
-Related Products provides clients with a carousel of products related to the overview product above. Upon click of an icon, client can also compare the two products. There is also an added feature to allow for customization of your outfit. If the client would like to save an outfit, they can do so by clicking the add button, and delete with the X button. These items will continue to stay with the patient, even after the application has closed, through local storage. 
+Related Products provides clients with a carousel of products related to the overview product above. Upon click of an icon, client can also compare the two products. There is also an added feature to allow for customization of your outfit. If the client would like to save an outfit, they can do so by clicking the add button, and delete with the X button. These items will continue to stay with the patient, even after the application has closed, through local storage.
 
 ![](https://github.com/team-daifuku/FEC/blob/master/related_products.gif)
+
+Components: [Related Products Components](https://github.com/Christopherliang7/Project-Catwalk/tree/master/client/components/widgets/Related)
+
+Actions & Asychronous Functions: [Related Products Actions](https://github.com/Christopherliang7/Project-Catwalk/tree/master/client/actions/Related%20Products)
+
+
